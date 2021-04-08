@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cleunggit/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://cleunggit.github.io/3-column-preview-card-component-main/)
+- Solution URL: [Code](https://github.com/cleunggit/3-column-preview-card-component-main)
+- Live Site URL: [Preview](https://cleunggit.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
