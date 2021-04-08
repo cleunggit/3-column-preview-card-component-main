@@ -5,12 +5,9 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -25,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/screenshot.jpg)
+![](./screenshots/desktop.png)
 
 ### Links
 
@@ -41,7 +38,8 @@ Users should be able to:
 - Flexbox
 
 ### What I learned
-
+- adding the border when hovering over the anchor element was increasing the overall size of the button, causing the whole article to expand
+- added the border to the anchor element instead
 
 ## Author
 
