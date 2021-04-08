@@ -9,7 +9,6 @@
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -26,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/cleunggit/3-column-preview-card-component-main)
+- Live Site URL: [Add live site URL here](https://cleunggit.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
@@ -43,6 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@cleunggit](https://www.frontendmentor.io/profile/cleunggit)
+- Twitter - [@CodeLikeChris](https://www.twitter.com/CodeLikeChris)
